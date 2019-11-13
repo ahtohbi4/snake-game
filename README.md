@@ -2,7 +2,7 @@
 
 > The traditional game implemented for browser.
 
-[Play](https://gk0hj.csb.app/)
+[Play](https://codesandbox.io/embed/snake-gk0hj?fontsize=14&initialpath=%2F&view=preview)
 
 ## How to play
 
