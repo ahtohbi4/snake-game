@@ -1,5 +1,3 @@
 import Game from "./Game";
 
-(function() {
-  new Game();
-})();
+new Game();
